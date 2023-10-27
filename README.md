@@ -1,4 +1,9 @@
 # MoviesLib
+
+<p align="center">
+    <img src="https://github.com/GabrielLima5/imagens-projetos/blob/main/images/MoviesLib.png" alt="Imagem do Projeto MoviesLib">
+</p>
+
 MoviesLib é um projeto de catálogo de filmes, desenvolvido durante o Curso React <a href="https://horadecodar.com.br/">Hora de Codar</a>, que oferece aos amantes de cinema uma vasta coleção de informações sobre filmes. Os usuários podem explorar dados de receita, sinopse e avaliações de diversos filmes em um único local.
 
 ## Habilidades Aprimoradas
@@ -9,7 +14,3 @@ MoviesLib é um projeto de catálogo de filmes, desenvolvido durante o Curso Rea
 * **React Hooks:** Para lidar com a lógica de busca e exibição de informações dos filmes, utilizamos hooks como useEffect() e useState().
 
 Esse projeto me ajudou a entender de maneira prática e sólida como consumir APIs em projetos front-end. Dessa maneira, sou capaz de criar aplicações que oferecem dados atualizados e relevantes aos usuários.
-
-<p align="center">
-    <img src="https://github.com/GabrielLima5/imagens-projetos/blob/main/images/MoviesLib.png" alt="Imagem do Projeto MoviesLib">
-</p>
