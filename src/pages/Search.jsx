@@ -2,8 +2,8 @@ import React, {useState, useEffect} from 'react'
 import { useSearchParams } from 'react-router-dom'
 import MovieCard from '../components/MovieCard'
 
-const searchURL = import.meta.env.VITE_SEARCH
-const apiKey = import.meta.env.VITE_API_KEY
+const searchURL = 'https://api.themoviedb.org/3/search/movie'
+const apiKey = 'api_key=a97898401275266645d22bd2946839c7'
 
 const Search = () => {
     const [searchParams] = useSearchParams()

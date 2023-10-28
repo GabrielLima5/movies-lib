@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import { FaStar } from 'react-icons/fa'
 import NoMovie from '../assets/nomovie.jpg'
 
-const imageURL = import.meta.env.VITE_IMG
+const imageURL = 'https://image.tmdb.org/t/p/w500/'
 
 const MovieCard = ({movie, showLink = true}) => {
   return (

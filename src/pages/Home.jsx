@@ -2,8 +2,8 @@ import React from 'react'
 import './MoviesGrid.css'
 import { useState, useEffect } from 'react'
 import MovieCard from '../components/MovieCard'
-const moviesURL = import.meta.env.VITE_API
-const apiKey = import.meta.env.VITE_API_KEY
+const moviesURL = 'https://api.themoviedb.org/3/movie/'
+const apiKey = 'api_key=a97898401275266645d22bd2946839c7'
 
 const Home = () => {
     const [topMovies, setTopMovies] = useState([])
