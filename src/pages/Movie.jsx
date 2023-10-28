@@ -10,8 +10,8 @@ import {
 import './Movie.css'
 import MovieCard from '../components/MovieCard'
 
-const moviesURL = import.meta.env.VITE_API
-const apiKey = import.meta.env.VITE_API_KEY
+const moviesURL = 'https://api.themoviedb.org/3/movie/'
+const apiKey = 'api_key=8ed200f50a6942ca5bc8b5cdec27ff22'
 
 const Movie = () => {
     const { id }= useParams()
