@@ -14,3 +14,5 @@ MoviesLib é um projeto de catálogo de filmes, desenvolvido durante o Curso Rea
 * **React Hooks:** Para lidar com a lógica de busca e exibição de informações dos filmes, utilizamos hooks como useEffect() e useState().
 
 Esse projeto me ajudou a entender de maneira prática e sólida como consumir APIs em projetos front-end. Dessa maneira, sou capaz de criar aplicações que oferecem dados atualizados e relevantes aos usuários.
+
+*Observação: por boas práticas, o recomendado é guardar a chave da API de maneira privada, em segurança, por ser um dado sensível. Porém, como esse projeto é apenas um objeto de estudo, incluí a chave da API dentro do código.
